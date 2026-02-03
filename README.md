@@ -8,6 +8,8 @@ Video dosyalarını kare bazlı analiz ederek belirlenen aralıklarla görüntü
 
 Özellikler
 
+Görüntü İşleme: OpenCV kütüphanesi kullanılarak video akışı kare kare okunur.
+
 \- \*\*Akıllı Kare Yakalama:\*\* Belirlenen saniye aralıklarıyla videodan görüntü alır.
 
 \- \*\*Otomatik PDF Oluşturma:\*\* Yakalanan görüntüleri tek bir PDF dosyasında birleştirir.
