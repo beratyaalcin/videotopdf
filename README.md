@@ -17,7 +17,7 @@ Yakalanan görüntüleri tek bir PDF dosyasında birleştirir.
 İşlem bittikten sonra geçici görsel dosyalarını otomatik temizler.
 
 
-Kurulum
+### Kurulum
 
 1\. Repoyu klonlayın: `git clone https://github.com/beratyaalcin/video-to-pdf.git`
 
