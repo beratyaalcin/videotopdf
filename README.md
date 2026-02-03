@@ -2,11 +2,11 @@
 
 Video dosyalarını kare bazlı analiz ederek belirlenen aralıklarla görüntü ayıklar ve bu görüntüleri tek bir PDF dokümanında birleştirir.
 
-**Özellikle slayt şeklinde yüklenen ders videoları için.
+### **Özellikle slayt şeklinde yüklenen ders videoları için.
 
 
 
-İşlem adımları
+### İşlem adımları
 
 Görüntü İşleme: OpenCV kütüphanesi kullanılarak video akışı kare kare okunur.
 
