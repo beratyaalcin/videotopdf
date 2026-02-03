@@ -1,8 +1,7 @@
-\# 📹 Video to PDF Converter
+Video to PDF Converter
 
-
-
-Bu araç, eğitim videolarını (özellikle slayt şeklinde yüklenen ders videolarını) analiz ederek otomatik olarak PDF ders notlarına dönüştürür.
+Video dosyalarını kare bazlı analiz ederek belirlenen aralıklarla görüntü ayıklar ve bu görüntüleri tek bir PDF dokümanında birleştirir.
+##(özellikle slayt şeklinde yüklenen ders videolarını)
 
 
 
@@ -29,4 +28,7 @@ Bu araç, eğitim videolarını (özellikle slayt şeklinde yüklenen ders video
 ---
 
 \*Bu proje, üniversite ders içeriklerini daha verimli çalışabilmek adına geliştirilmiştir.\*
+
+
+
 
