@@ -1,11 +1,12 @@
 Video to PDF Converter
 
 Video dosyalarını kare bazlı analiz ederek belirlenen aralıklarla görüntü ayıklar ve bu görüntüleri tek bir PDF dokümanında birleştirir.
-##(özellikle slayt şeklinde yüklenen ders videolarını)
+
+**Özellikle slayt şeklinde yüklenen ders videoları için.
 
 
 
-\## 🛠️ Özellikler
+Özellikler
 
 \- \*\*Akıllı Kare Yakalama:\*\* Belirlenen saniye aralıklarıyla videodan görüntü alır.
 
