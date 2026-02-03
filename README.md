@@ -6,7 +6,7 @@ Video dosyalarını kare bazlı analiz ederek belirlenen aralıklarla görüntü
 
 
 
-Özellikler
+İşlem adımları
 
 Görüntü İşleme: OpenCV kütüphanesi kullanılarak video akışı kare kare okunur.
 
