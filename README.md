@@ -9,17 +9,15 @@ Video dosyalarını kare bazlı analiz ederek belirlenen aralıklarla görüntü
 Özellikler
 
 Görüntü İşleme: OpenCV kütüphanesi kullanılarak video akışı kare kare okunur.
+
 Kare Ayıklama: Kullanıcı tarafından belirlenen *frame_interval* parametresine göre, gereksiz veri tekrarını önlemek amacıyla sadece belirli aralıktaki kareler yakalanır.
 
-\- \*\*Akıllı Kare Yakalama:\*\* Belirlenen saniye aralıklarıyla videodan görüntü alır.
+Yakalanan görüntüleri tek bir PDF dosyasında birleştirir.
 
-\- \*\*Otomatik PDF Oluşturma:\*\* Yakalanan görüntüleri tek bir PDF dosyasında birleştirir.
-
-\- \*\*Temiz Çalışma:\*\* İşlem bittikten sonra geçici görsel dosyalarını otomatik temizler.
+İşlem bittikten sonra geçici görsel dosyalarını otomatik temizler.
 
 
-
-\## 🚀 Kurulum
+Kurulum
 
 1\. Repoyu klonlayın: `git clone https://github.com/beratyaalcin/video-to-pdf.git`
 
